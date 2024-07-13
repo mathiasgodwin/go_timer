@@ -35,6 +35,7 @@ _\*Go Timer works on Windows, Linux and MacOS._
 
 ### About the app
  - The app takes screenshot after 5 seconds
+ - The app is currently on tested on Windows operating system
 
 ### Screenshot of app
 ![img.png](img.png)
